@@ -1,0 +1,15 @@
+Sno,outlook,temp,humidity,windy,play
+1,overcast ,cool ,  high   ,  Y   ,yes
+2,overcast ,mild , normal  ,  N   ,yes
+3,sunny,cool , normal  ,  N   ,yes
+4,overcast , hot ,  high   ,  Y   ,no
+5,sunny, hot , normal  ,  Y   ,yes
+6,  rain   ,mild ,  high   ,  N   ,no
+7,  rain   ,cool , normal  ,  N   ,no
+8,sunny,mild ,  high   ,  N   ,yes
+9,sunny,cool , normal  ,  Y   ,yes
+10,sunny,mild , normal  ,  Y   ,yes
+11,overcast ,cool ,  high   ,  N   ,yes
+12,  rain   ,cool ,  high   ,  Y   ,no
+13,sunny, hot , normal  ,  Y   ,no
+14,sunny,mild ,  high   ,  N   ,yes
